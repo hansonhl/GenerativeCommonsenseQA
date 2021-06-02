@@ -42,3 +42,10 @@ Similar to the above, `CONFIG_FILE` is one of the config files in
 `gpt2_robustness/configs/`, and `SAVE_DIR` is a directory of your choice to 
 save the model checkpoints and outputs. This training script will automatically
 do evaluation at the end of training.
+
+## Data
+
+Please contact the author of the project for the data.
+
+The contents of this repo are refactored out of a large repo that is very messy,
+so there is no commit history.
